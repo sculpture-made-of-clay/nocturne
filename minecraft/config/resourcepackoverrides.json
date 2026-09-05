@@ -16,6 +16,21 @@
     "file/Regrown Grass.zip": {
       "hidden": true
     },
+    "file/FA+Player-v1.1.zip": {
+      "hidden": true
+    },
+    "file/ClassicWheat.zip": {
+      "hidden": true
+    },
+    "file/Dead Bushes.zip": {
+      "hidden": true
+    },
+    "file/Unified Zombies.zip": {
+      "hidden": true
+    },
+    "mod/punchy:resourcepacks/punchy": {
+      "hidden": true
+    },
     "98_External_Rainbows_Foliage": {
       "hidden": true
     },
@@ -23,6 +38,9 @@
       "hidden": true
     },
     "100_Nocturne": {
+      "hidden": true
+    },
+    "mod_resources": {
       "hidden": true
     }
   }

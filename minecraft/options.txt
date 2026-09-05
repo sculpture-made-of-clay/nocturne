@@ -48,8 +48,8 @@ mouseSensitivity:0.5
 damageTiltStrength:1.0
 highContrast:false
 narratorHotkey:true
-resourcePacks:["vanilla","mod/punchy:resourcepacks/punchy","mod_resources","file/Angel\u0027s_Font_v0.8.zip","file/Regrown Grass.zip","file/Netherrack Resurrected.zip","98_External_Rainbows_Foliage","99_External_Tranquil","100_Nocturne","file/ClassicWheat.zip","file/FA+Player-v1.1.zip"]
-incompatibleResourcePacks:["99_External_Tranquil"]
+resourcePacks:["vanilla","mod/punchy:resourcepacks/punchy","mod_resources","file/Angel\u0027s_Font_v0.8.zip","file/Regrown Grass.zip","file/Netherrack Resurrected.zip","file/ClassicWheat.zip","file/Dead Bushes.zip","file/Unified Zombies.zip","file/FA+Player-v1.1.zip","98_External_Rainbows_Foliage","99_External_Tranquil","100_Nocturne"]
+incompatibleResourcePacks:["file/Unified Zombies.zip","99_External_Tranquil"]
 lastServer:
 lang:uk_ua
 chatVisibility:0
@@ -131,8 +131,8 @@ key_key.nostalgic_tweaks.toggle_fog:key.keyboard.keypad.5
 key_key.nostalgic_tweaks.stop_song:key.keyboard.unknown
 key_key.nostalgic_tweaks.next_song:key.keyboard.unknown
 key_key.nostalgic_tweaks.toggle_weather:key.keyboard.unknown
-key_key.punchy.triggerable.punchy_sword_inspect_old:key.keyboard.j
 key_key.punchy.triggerable.punchy_sword_inspect_rework:key.keyboard.g
+key_key.punchy.triggerable.punchy_sword_inspect_old:key.keyboard.j
 soundCategory_master:0.5077323054635762
 soundCategory_music:0.0
 soundCategory_record:1.0
