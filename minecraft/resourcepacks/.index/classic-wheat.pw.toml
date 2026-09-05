@@ -1,0 +1,44 @@
+filename = 'ClassicWheat.zip'
+name = 'Classic Wheat'
+side = 'client'
+x-prismlauncher-loaders = []
+x-prismlauncher-mc-versions = [
+    '1.19',
+    '1.19',
+    '1.19.1',
+    '1.19.1',
+    '1.19.2',
+    '1.19.2',
+    '1.19.3',
+    '1.19.3',
+    '1.19.4',
+    '1.19.4',
+    '1.20',
+    '1.20',
+    '1.20.1',
+    '1.20.1',
+    '1.20.2',
+    '1.20.2',
+    '1.20.3',
+    '1.20.3',
+    '1.20.4',
+    '1.20.4',
+    '1.20.5',
+    '1.20.5',
+    '1.20.6',
+    '1.20.6',
+    '1.21',
+    '1.21'
+]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = '1.0'
+
+[download]
+hash = 'b25b6eeb644841f1ea226b436b3b7ca917c04bba7ff3a705bb19b566f56be9b12e0bcc040d3857dfdc427f324d233c2e594fc478189e91e4f36360722e823133'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/HEUgwhGm/versions/aqDQEdv1/ClassicWheat.zip'
+
+[update.modrinth]
+mod-id = 'HEUgwhGm'
+version = 'aqDQEdv1'
