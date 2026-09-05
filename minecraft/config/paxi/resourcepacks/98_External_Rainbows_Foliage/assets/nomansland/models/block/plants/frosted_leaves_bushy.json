@@ -1,0 +1,7 @@
+{
+  "parent": "block/template_leaves",
+  "textures": {
+    "all": "nomansland:block/plants/frosted_leaves",
+    "bushy": "nomansland:block/plants/frosted_leaves_bushy"
+  }
+}

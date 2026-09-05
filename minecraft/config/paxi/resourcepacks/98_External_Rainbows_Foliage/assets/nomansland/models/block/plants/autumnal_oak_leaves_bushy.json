@@ -1,0 +1,7 @@
+{
+  "parent": "block/template_leaves",
+  "textures": {
+    "all": "nomansland:block/plants/autumnal_oak_leaves",
+    "bushy": "nomansland:block/plants/autumnal_oak_leaves_bushy"
+  }
+}

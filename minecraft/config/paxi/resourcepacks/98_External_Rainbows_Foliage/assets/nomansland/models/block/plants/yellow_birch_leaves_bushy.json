@@ -1,0 +1,7 @@
+{
+  "parent": "block/template_leaves",
+  "textures": {
+    "all": "nomansland:block/plants/yellow_birch_leaves",
+    "bushy": "nomansland:block/plants/yellow_birch_leaves_bushy"
+  }
+}
