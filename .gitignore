@@ -5,7 +5,7 @@ minecraft/downloads/
 minecraft/fancymenu_data/
 minecraft/logs/
 minecraft/mods/*.jar
-minecraft/resourcepacks/
+minecraft/resourcepacks/*.zip
 minecraft/saves/
 minecraft/screenshots/
 minecraft/server-resource-packs/
