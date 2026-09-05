@@ -48,7 +48,7 @@ mouseSensitivity:0.5
 damageTiltStrength:1.0
 highContrast:false
 narratorHotkey:true
-resourcePacks:["vanilla","mod_resources","99_External_Tranquil","0_Nocturne","98_External_Rainbows_Foliage"]
+resourcePacks:["vanilla","mod_resources","0_Nocturne","98_External_Rainbows_Foliage","99_External_Tranquil"]
 incompatibleResourcePacks:["99_External_Tranquil"]
 lastServer:
 lang:en_us
@@ -127,8 +127,8 @@ key_key.nostalgic_tweaks.stop_song:key.keyboard.unknown
 key_key.nostalgic_tweaks.next_song:key.keyboard.unknown
 key_key.nostalgic_tweaks.toggle_weather:key.keyboard.unknown
 key_key.kubejs.kubedex:key.keyboard.k
-soundCategory_master:1.0
-soundCategory_music:1.0
+soundCategory_master:0.5077323054635762
+soundCategory_music:0.0
 soundCategory_record:1.0
 soundCategory_weather:1.0
 soundCategory_block:1.0

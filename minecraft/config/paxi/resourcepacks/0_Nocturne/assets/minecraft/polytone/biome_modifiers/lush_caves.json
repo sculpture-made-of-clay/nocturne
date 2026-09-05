@@ -1,0 +1,17 @@
+{
+  "targets": [
+    "minecraft:lush_caves"
+  ],
+  "particle": {
+    "options": {
+      "type": "minecraft:spore_blossom_air"
+    },
+    "probability": 1
+  },
+  "grass_color_modifier": "none",
+  "fog_color": 11272039,
+  "foliage_color": 11272039,
+  "grass_color": 11272039,
+  "water_color": 11272039,
+  "water_fog_color": 11272039
+}
