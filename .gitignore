@@ -1,0 +1,17 @@
+minecraft/coremods/
+minecraft/defaultconfigs/
+minecraft/downloads/
+minecraft/fancymenu_data/
+minecraft/logs/
+minecraft/mods/
+minecraft/resourcepacks/
+minecraft/saves/
+minecraft/screenshots/
+minecraft/server-resource-packs/
+minecraft/shaderpacks/
+minecraft/spiffy_instance_data/
+minecraft/texturepacks/
+minecraft/usercache.json
+minecraft/usernamecache.json
+
+instance.cfg

@@ -1,0 +1,593 @@
+{
+  "scale": 1.0,
+  "blocks": [
+    {
+      "x": 1,
+      "y": 1,
+      "blockId": "minecraft:netherrack",
+      "shadowColor": "#000000FF",
+      "sound": false
+    },
+    {
+      "x": 1,
+      "y": 2,
+      "blockId": "minecraft:magma_block",
+      "shadowColor": "#000000FF",
+      "sound": false
+    },
+    {
+      "x": 1,
+      "y": 3,
+      "blockId": "minecraft:magma_block",
+      "shadowColor": "#000000FF",
+      "sound": false
+    },
+    {
+      "x": 1,
+      "y": 4,
+      "blockId": "minecraft:magma_block",
+      "shadowColor": "#000000FF",
+      "sound": false
+    },
+    {
+      "x": 1,
+      "y": 5,
+      "blockId": "minecraft:netherrack",
+      "shadowColor": "#000000FF",
+      "sound": false
+    },
+    {
+      "x": 1,
+      "y": 6,
+      "blockId": "minecraft:nether_gold_ore",
+      "shadowColor": "#000000FF",
+      "sound": false
+    },
+    {
+      "x": 2,
+      "y": 3,
+      "blockId": "minecraft:netherrack",
+      "shadowColor": "#000000FF",
+      "sound": false
+    },
+    {
+      "x": 2,
+      "y": 4,
+      "blockId": "minecraft:netherrack",
+      "shadowColor": "#000000FF",
+      "sound": false
+    },
+    {
+      "x": 3,
+      "y": 5,
+      "blockId": "minecraft:nether_gold_ore",
+      "shadowColor": "#000000FF",
+      "sound": false
+    },
+    {
+      "x": 3,
+      "y": 6,
+      "blockId": "minecraft:netherrack",
+      "shadowColor": "#000000FF",
+      "sound": false
+    },
+    {
+      "x": 1,
+      "y": 7,
+      "blockId": "minecraft:netherrack",
+      "shadowColor": "#000000FF",
+      "sound": false
+    },
+    {
+      "x": 4,
+      "y": 7,
+      "blockId": "minecraft:crimson_hyphae",
+      "shadowColor": "#000000FF",
+      "sound": false
+    },
+    {
+      "x": 4,
+      "y": 6,
+      "blockId": "minecraft:crimson_hyphae",
+      "shadowColor": "#000000FF",
+      "sound": false
+    },
+    {
+      "x": 4,
+      "y": 5,
+      "blockId": "minecraft:crimson_hyphae",
+      "shadowColor": "#000000FF",
+      "sound": false
+    },
+    {
+      "x": 4,
+      "y": 4,
+      "blockId": "minecraft:netherrack",
+      "shadowColor": "#000000FF",
+      "sound": false
+    },
+    {
+      "x": 4,
+      "y": 3,
+      "blockId": "minecraft:crimson_hyphae",
+      "shadowColor": "#000000FF",
+      "sound": false
+    },
+    {
+      "x": 4,
+      "y": 2,
+      "blockId": "minecraft:nether_gold_ore",
+      "shadowColor": "#000000FF",
+      "sound": false
+    },
+    {
+      "x": 4,
+      "y": 1,
+      "blockId": "minecraft:netherrack",
+      "shadowColor": "#000000FF",
+      "sound": false
+    },
+    {
+      "x": 7,
+      "y": 7,
+      "blockId": "minecraft:crying_obsidian",
+      "shadowColor": "#000000FF",
+      "sound": false
+    },
+    {
+      "x": 8,
+      "y": 7,
+      "blockId": "minecraft:obsidian",
+      "shadowColor": "#000000FF",
+      "sound": false
+    },
+    {
+      "x": 9,
+      "y": 6,
+      "blockId": "minecraft:obsidian",
+      "shadowColor": "#000000FF",
+      "sound": false
+    },
+    {
+      "x": 9,
+      "y": 5,
+      "blockId": "minecraft:obsidian",
+      "shadowColor": "#000000FF",
+      "sound": false
+    },
+    {
+      "x": 9,
+      "y": 4,
+      "blockId": "minecraft:netherrack",
+      "shadowColor": "#000000FF",
+      "sound": false
+    },
+    {
+      "x": 8,
+      "y": 3,
+      "blockId": "minecraft:netherrack",
+      "shadowColor": "#000000FF",
+      "sound": false
+    },
+    {
+      "x": 7,
+      "y": 3,
+      "blockId": "minecraft:obsidian",
+      "shadowColor": "#000000FF",
+      "sound": false
+    },
+    {
+      "x": 6,
+      "y": 4,
+      "blockId": "minecraft:crying_obsidian",
+      "shadowColor": "#000000FF",
+      "sound": false
+    },
+    {
+      "x": 6,
+      "y": 5,
+      "blockId": "minecraft:crying_obsidian",
+      "shadowColor": "#000000FF",
+      "sound": false
+    },
+    {
+      "x": 6,
+      "y": 6,
+      "blockId": "minecraft:obsidian",
+      "shadowColor": "#000000FF",
+      "sound": false
+    },
+    {
+      "x": 12,
+      "y": 7,
+      "blockId": "minecraft:mossy_cobblestone",
+      "shadowColor": "#000000FF",
+      "sound": false
+    },
+    {
+      "x": 13,
+      "y": 7,
+      "blockId": "minecraft:cobblestone",
+      "shadowColor": "#000000FF",
+      "sound": false
+    },
+    {
+      "x": 14,
+      "y": 6,
+      "blockId": "minecraft:cobblestone",
+      "shadowColor": "#000000FF",
+      "sound": false
+    },
+    {
+      "x": 11,
+      "y": 6,
+      "blockId": "minecraft:mossy_cobblestone",
+      "shadowColor": "#000000FF",
+      "sound": false
+    },
+    {
+      "x": 11,
+      "y": 5,
+      "blockId": "minecraft:cobblestone",
+      "shadowColor": "#000000FF",
+      "sound": false
+    },
+    {
+      "x": 11,
+      "y": 4,
+      "blockId": "minecraft:gravel",
+      "shadowColor": "#000000FF",
+      "sound": false
+    },
+    {
+      "x": 12,
+      "y": 3,
+      "blockId": "minecraft:gravel",
+      "shadowColor": "#000000FF",
+      "sound": false
+    },
+    {
+      "x": 13,
+      "y": 3,
+      "blockId": "minecraft:cobblestone",
+      "shadowColor": "#000000FF",
+      "sound": false
+    },
+    {
+      "x": 14,
+      "y": 4,
+      "blockId": "minecraft:cobblestone",
+      "shadowColor": "#000000FF",
+      "sound": false
+    },
+    {
+      "x": 16,
+      "y": 3,
+      "blockId": "minecraft:stone",
+      "shadowColor": "#000000FF",
+      "sound": false
+    },
+    {
+      "x": 17,
+      "y": 3,
+      "blockId": "minecraft:diamond_ore",
+      "shadowColor": "#000000FF",
+      "sound": false
+    },
+    {
+      "x": 18,
+      "y": 3,
+      "blockId": "minecraft:diamond_ore",
+      "shadowColor": "#000000FF",
+      "sound": false
+    },
+    {
+      "x": 17,
+      "y": 2,
+      "blockId": "minecraft:stone",
+      "shadowColor": "#000000FF",
+      "sound": false
+    },
+    {
+      "x": 17,
+      "y": 4,
+      "blockId": "minecraft:diamond_ore",
+      "shadowColor": "#000000FF",
+      "sound": false
+    },
+    {
+      "x": 17,
+      "y": 5,
+      "blockId": "minecraft:gravel",
+      "shadowColor": "#000000FF",
+      "sound": false
+    },
+    {
+      "x": 17,
+      "y": 6,
+      "blockId": "minecraft:gravel",
+      "shadowColor": "#000000FF",
+      "sound": false
+    },
+    {
+      "x": 18,
+      "y": 7,
+      "blockId": "minecraft:stone",
+      "shadowColor": "#000000FF",
+      "sound": false
+    },
+    {
+      "x": 20,
+      "y": 3,
+      "blockId": "minecraft:moss_block",
+      "shadowColor": "#000000FF",
+      "sound": false
+    },
+    {
+      "x": 20,
+      "y": 4,
+      "blockId": "minecraft:moss_block",
+      "shadowColor": "#000000FF",
+      "sound": false
+    },
+    {
+      "x": 20,
+      "y": 5,
+      "blockId": "minecraft:mossy_cobblestone",
+      "shadowColor": "#000000FF",
+      "sound": false
+    },
+    {
+      "x": 20,
+      "y": 6,
+      "blockId": "minecraft:mossy_cobblestone",
+      "shadowColor": "#000000FF",
+      "sound": false
+    },
+    {
+      "x": 21,
+      "y": 7,
+      "blockId": "minecraft:cobblestone",
+      "shadowColor": "#000000FF",
+      "sound": false
+    },
+    {
+      "x": 22,
+      "y": 7,
+      "blockId": "minecraft:gravel",
+      "shadowColor": "#000000FF",
+      "sound": false
+    },
+    {
+      "x": 23,
+      "y": 6,
+      "blockId": "minecraft:gravel",
+      "shadowColor": "#000000FF",
+      "sound": false
+    },
+    {
+      "x": 23,
+      "y": 5,
+      "blockId": "minecraft:emerald_ore",
+      "shadowColor": "#000000FF",
+      "sound": false
+    },
+    {
+      "x": 23,
+      "y": 4,
+      "blockId": "minecraft:emerald_ore",
+      "shadowColor": "#000000FF",
+      "sound": false
+    },
+    {
+      "x": 23,
+      "y": 3,
+      "blockId": "minecraft:stone",
+      "shadowColor": "#000000FF",
+      "sound": false
+    },
+    {
+      "x": 25,
+      "y": 7,
+      "blockId": "minecraft:polished_basalt",
+      "shadowColor": "#000000FF",
+      "sound": false
+    },
+    {
+      "x": 25,
+      "y": 6,
+      "blockId": "minecraft:polished_basalt",
+      "shadowColor": "#000000FF",
+      "sound": false
+    },
+    {
+      "x": 25,
+      "y": 5,
+      "blockId": "minecraft:smooth_basalt",
+      "shadowColor": "#000000FF",
+      "sound": false
+    },
+    {
+      "x": 25,
+      "y": 4,
+      "blockId": "minecraft:polished_basalt",
+      "shadowColor": "#000000FF",
+      "sound": false
+    },
+    {
+      "x": 25,
+      "y": 3,
+      "blockId": "minecraft:smooth_basalt",
+      "shadowColor": "#000000FF",
+      "sound": false
+    },
+    {
+      "x": 26,
+      "y": 4,
+      "blockId": "minecraft:smooth_basalt",
+      "shadowColor": "#000000FF",
+      "sound": false
+    },
+    {
+      "x": 27,
+      "y": 3,
+      "blockId": "minecraft:smooth_basalt",
+      "shadowColor": "#000000FF",
+      "sound": false
+    },
+    {
+      "x": 28,
+      "y": 4,
+      "blockId": "minecraft:smooth_basalt",
+      "shadowColor": "#000000FF",
+      "sound": false
+    },
+    {
+      "x": 30,
+      "y": 3,
+      "blockId": "minecraft:stone",
+      "shadowColor": "#000000FF",
+      "sound": false
+    },
+    {
+      "x": 30,
+      "y": 4,
+      "blockId": "minecraft:emerald_ore",
+      "shadowColor": "#000000FF",
+      "sound": false
+    },
+    {
+      "x": 30,
+      "y": 5,
+      "blockId": "minecraft:cobblestone",
+      "shadowColor": "#000000FF",
+      "sound": false
+    },
+    {
+      "x": 30,
+      "y": 6,
+      "blockId": "minecraft:cobblestone",
+      "shadowColor": "#000000FF",
+      "sound": false
+    },
+    {
+      "x": 30,
+      "y": 7,
+      "blockId": "minecraft:mossy_cobblestone",
+      "shadowColor": "#000000FF",
+      "sound": false
+    },
+    {
+      "x": 31,
+      "y": 4,
+      "blockId": "minecraft:stone",
+      "shadowColor": "#000000FF",
+      "sound": false
+    },
+    {
+      "x": 32,
+      "y": 3,
+      "blockId": "minecraft:stone",
+      "shadowColor": "#000000FF",
+      "sound": false
+    },
+    {
+      "x": 33,
+      "y": 4,
+      "blockId": "minecraft:gravel",
+      "shadowColor": "#000000FF",
+      "sound": false
+    },
+    {
+      "x": 33,
+      "y": 5,
+      "blockId": "minecraft:gravel",
+      "shadowColor": "#000000FF",
+      "sound": false
+    },
+    {
+      "x": 33,
+      "y": 6,
+      "blockId": "minecraft:mossy_cobblestone",
+      "shadowColor": "#000000FF",
+      "sound": false
+    },
+    {
+      "x": 33,
+      "y": 7,
+      "blockId": "minecraft:mossy_cobblestone",
+      "shadowColor": "#000000FF",
+      "sound": false
+    },
+    {
+      "x": 35,
+      "y": 4,
+      "blockId": "minecraft:stone",
+      "shadowColor": "#000000FF",
+      "sound": false
+    },
+    {
+      "x": 36,
+      "y": 3,
+      "blockId": "minecraft:stone",
+      "shadowColor": "#000000FF",
+      "sound": false
+    },
+    {
+      "x": 37,
+      "y": 3,
+      "blockId": "minecraft:stone",
+      "shadowColor": "#000000FF",
+      "sound": false
+    },
+    {
+      "x": 38,
+      "y": 4,
+      "blockId": "minecraft:stone",
+      "shadowColor": "#000000FF",
+      "sound": false
+    },
+    {
+      "x": 38,
+      "y": 5,
+      "blockId": "minecraft:stone",
+      "shadowColor": "#000000FF",
+      "sound": false
+    },
+    {
+      "x": 37,
+      "y": 5,
+      "blockId": "minecraft:emerald_ore",
+      "shadowColor": "#000000FF",
+      "sound": false
+    },
+    {
+      "x": 36,
+      "y": 5,
+      "blockId": "minecraft:cobblestone",
+      "shadowColor": "#000000FF",
+      "sound": false
+    },
+    {
+      "x": 35,
+      "y": 5,
+      "blockId": "minecraft:cobblestone",
+      "shadowColor": "#000000FF",
+      "sound": false
+    },
+    {
+      "x": 35,
+      "y": 6,
+      "blockId": "minecraft:cobblestone",
+      "shadowColor": "#000000FF",
+      "sound": false
+    },
+    {
+      "x": 36,
+      "y": 7,
+      "blockId": "minecraft:cobblestone",
+      "shadowColor": "#000000FF",
+      "sound": false
+    }
+  ]
+}
