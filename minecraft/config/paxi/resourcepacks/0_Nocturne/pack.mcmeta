@@ -1,0 +1,12 @@
+{
+  "pack": {
+    "pack_format": 75,
+    "description": "§3[Основний] §fРесурс-пак для §6Fortitude.",
+    "supported_formats": [
+      22,
+      99
+    ],
+    "min_format": 22,
+    "max_format": 99
+  }
+}

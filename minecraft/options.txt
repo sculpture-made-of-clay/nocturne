@@ -48,8 +48,8 @@ mouseSensitivity:0.5
 damageTiltStrength:1.0
 highContrast:false
 narratorHotkey:true
-resourcePacks:[]
-incompatibleResourcePacks:[]
+resourcePacks:["vanilla","mod_resources","99_External_Tranquil","0_Nocturne"]
+incompatibleResourcePacks:["99_External_Tranquil"]
 lastServer:
 lang:en_us
 chatVisibility:0
@@ -126,6 +126,7 @@ key_key.nostalgic_tweaks.toggle_fog:key.keyboard.unknown
 key_key.nostalgic_tweaks.stop_song:key.keyboard.unknown
 key_key.nostalgic_tweaks.next_song:key.keyboard.unknown
 key_key.nostalgic_tweaks.toggle_weather:key.keyboard.unknown
+key_key.kubejs.kubedex:key.keyboard.k
 soundCategory_master:1.0
 soundCategory_music:1.0
 soundCategory_record:1.0
