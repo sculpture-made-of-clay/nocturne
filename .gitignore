@@ -3,7 +3,7 @@ minecraft/defaultconfigs/
 minecraft/downloads/
 minecraft/fancymenu_data/
 minecraft/logs/
-minecraft/mods/
+minecraft/mods/*.jar
 minecraft/resourcepacks/
 minecraft/saves/
 minecraft/screenshots/
