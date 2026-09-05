@@ -51,7 +51,7 @@ narratorHotkey:true
 resourcePacks:["vanilla","mod_resources","file/Angel\u0027s_Font_v0.8.zip","file/Regrown Grass.zip","file/Netherrack Resurrected.zip","98_External_Rainbows_Foliage","99_External_Tranquil","100_Nocturne"]
 incompatibleResourcePacks:["99_External_Tranquil"]
 lastServer:
-lang:en_us
+lang:uk_ua
 chatVisibility:0
 chatOpacity:1.0
 chatLineSpacing:0.0
