@@ -2,13 +2,15 @@
   "favorites": [],
   "lookup_history": [],
   "craft_history": [
+    "minecraft:wooden_axe",
+    "minecraft:oak_planks",
+    "minecraft:crafting_table",
+    "minecraft:oak_button",
     "minecraft:stone_axe",
     "minecraft:stone_pickaxe",
     "minecraft:wooden_pickaxe",
     "minecraft:stick",
-    "minecraft:birch_planks",
-    "minecraft:wooden_axe",
-    "minecraft:crafting_table"
+    "minecraft:birch_planks"
   ],
   "recipe_defaults": {
     "added": [],
