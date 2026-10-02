@@ -1,6 +1,9 @@
 {
   "favorites": [],
-  "lookup_history": [],
+  "lookup_history": [
+    "item:etcetera:gray_sweater",
+    "item:etcetera:white_sweater"
+  ],
   "craft_history": [
     "minecraft:wooden_pickaxe",
     "minecraft:oak_planks",
