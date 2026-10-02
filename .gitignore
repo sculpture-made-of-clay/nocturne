@@ -18,5 +18,5 @@ minecraft/texturepacks/
 minecraft/command_history.txt
 minecraft/usercache.json
 minecraft/usernamecache.json
-
+minecraft/*.log
 instance.cfg
