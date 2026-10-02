@@ -44,6 +44,8 @@
       "disabled": false
     },
     "playMusicWhenPaused": true,
+    "playMusicContinuously": false,
+    "continuousDelay": 0,
     "musicForMenu": "BLENDED",
     "musicForCreative": "BLENDED",
     "replaceOverworldBiomeMusic": true,
@@ -501,6 +503,10 @@
     "oldSwordBlocking": false,
     "attackWhileSwordBlocking": false,
     "swordBlockDamageReduction": 50,
+    "ignoredOldDamageItems": {
+      "items": [],
+      "disabled": false
+    },
     "oldDamageValues": true,
     "disableCooldown": true,
     "disableMissTimer": true,
