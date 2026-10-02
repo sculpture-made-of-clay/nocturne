@@ -1,11 +1,13 @@
 minecraft/.mixin.out/
 minecraft/.sable/
 minecraft/coremods/
+minecraft/crash-reports/
 minecraft/defaultconfigs/
 minecraft/downloads/
 minecraft/fancymenu_data/
 minecraft/logs/
 minecraft/mods/*.jar
+minecraft/mods/*.jar.disabled
 minecraft/resourcepacks/*.zip
 minecraft/saves/
 minecraft/screenshots/
