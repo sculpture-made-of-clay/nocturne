@@ -1,0 +1,17 @@
+filename = 'teatime-0.0.3.jar'
+name = 'Teatime!'
+side = 'both'
+x-prismlauncher-loaders = [ 'neoforge' ]
+x-prismlauncher-mc-versions = [ '1.21.1', '1.21.1' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = '0.0.3'
+
+[download]
+hash = '8313795ab3d795bbaa55f6478f88d745a1d86230ed667c3b2b26d850dd8af2b88befc32cb5cb88ed3677db17e1e38ff1e0b03dce759d4ed5c733280ec4f59166'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/arqRTQhG/versions/9jBwcg4s/teatime-0.0.3.jar'
+
+[update.modrinth]
+mod-id = 'arqRTQhG'
+version = '9jBwcg4s'
